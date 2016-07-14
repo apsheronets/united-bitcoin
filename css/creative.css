@@ -173,7 +173,7 @@ aside {
 }
 
 .wasteland {
-    background-image: url(http://dump.bitcheese.net/images/umebicu/006_02.jpeg);
+    background-image: url(/img/terra_nullius_white.jpeg);
     background-position: center;
     -webkit-background-size: cover;
     -moz-background-size: cover;
@@ -189,13 +189,7 @@ header {
     min-height: auto;
     text-align: center;
     color: #fff;
-    /*
-    background-image: url(../img/header.jpg);
-    */
-    /*
-    background-image: url(http://dump.bitcheese.net/images/ufyfaza/stock-photo-32307075.jpeg);
-    */
-    background-image: url(http://dump.bitcheese.net/images/ycymyso/stock-photo-75511575_01.jpeg);
+    background-image: url(/img/building_shit.jpeg);
     background-position: center;
     -webkit-background-size: cover;
     -moz-background-size: cover;
